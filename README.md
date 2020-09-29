@@ -10,5 +10,6 @@ This repo contains Build Files of Race In game.
 ***Update_20.09***
 * Handling improvement.
 * Performance fixes.
-* New buildings and local routes.
+* Added new buildings and local routes.
 * Improved vegetation.
+* Graphics have been improved.
