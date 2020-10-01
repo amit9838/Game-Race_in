@@ -13,3 +13,4 @@ This repo contains Build Files of Race In game.
 * Added new buildings and local routes.
 * Improved vegetation.
 * Graphics improvement.
+* Game Controls.
